@@ -298,7 +298,6 @@ Domino-s-Pizza-Store-Analysis-SQL-Project/
 │
 ├── Dominos Extra/                      # Database Backup & Extra Notes
 │   ├── dominos_db.sql                  # PostgreSQL database dump file
-│   └── README.md                       # Supplemental documentation
 │
 └── README.md                           # Main Project README Documentation
 ```
